@@ -2,7 +2,6 @@
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning OSCP , OWASP
 - 💞️ I’m looking to collaborate on Red Team , Pinterest , Purple team
-- 📫 How to reach me {twitter : @dodinahas} 
 
 <!---
 DawMN/DawMN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
